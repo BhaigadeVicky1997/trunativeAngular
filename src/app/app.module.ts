@@ -13,12 +13,14 @@ import { AuthModule } from './All_Components/Auth/Auth.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './All_Components/CommonComponents/header/header.component';
 import {FooterComponent} from '../app/All_Components/CommonComponents/footer/footer.component';
+import { HomeComponent } from './All_Components/homeComponent/home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
