@@ -1,0 +1,31 @@
+.home_page_banner{
+    background-image: url('../../../../assets/homepage/Home_Banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+.creaftText{
+font-family: LaPaloma;
+color: #000;
+font-size: 3rem;
+margin: 0;
+}
+
+.third_section{
+    width: 60%;
+}
+
+.navbar{
+    position: absolute;
+    top: 0;
+    z-index: 4;
+    width: 100%;
+ //   padding: 14px 14px 0 0;
+    background-color: none;
+
+}
